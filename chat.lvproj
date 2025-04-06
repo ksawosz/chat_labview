@@ -13,11 +13,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="client_chat.vi" Type="VI" URL="../client_chat.vi"/>
-		<Item Name="client_chat2.vi" Type="VI" URL="../client_chat2.vi"/>
+		<Item Name="clients_global.vi" Type="VI" URL="../clients_global.vi"/>
 		<Item Name="host_chat.vi" Type="VI" URL="../host_chat.vi"/>
 		<Item Name="join_chat.vi" Type="VI" URL="../join_chat.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="server_chat.vi" Type="VI" URL="../server_chat.vi"/>
+		<Item Name="server_read.vi" Type="VI" URL="../server_read.vi"/>
 		<Item Name="server_state.ctl" Type="VI" URL="../server_state.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
