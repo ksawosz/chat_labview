@@ -15,6 +15,7 @@
 		<Item Name="client_chat.vi" Type="VI" URL="../client_chat.vi"/>
 		<Item Name="host_chat.vi" Type="VI" URL="../host_chat.vi"/>
 		<Item Name="join_chat.vi" Type="VI" URL="../join_chat.vi"/>
+		<Item Name="main — kopia (2).vi" Type="VI" URL="../main — kopia (2).vi"/>
 		<Item Name="main — kopia.vi" Type="VI" URL="../main — kopia.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="main_state.ctl" Type="VI" URL="../main_state.ctl"/>
